@@ -64,4 +64,4 @@ src/
 
 Inspired by the legendary aesthetics of **Itachi Uchiha** and the **Uchiha clan**.
 
-**Built by [Nahom Beletew]** — [LinkedIn](#https://www.linkedin.com/in/nahom-beletew-aba231322/) · [GitHub](#https://github.com/Nahom-cyber-coder) · [Instagram](#https://www.instagram.com/zabuzamn/)
+**Built by [Nahom Beletew]** — [[LinkedIn](https://www.linkedin.com/in/nahom-beletew-aba231322/)] · [[GitHub](https://github.com/Nahom-cyber-coder)] · [[Instagram](https://www.instagram.com/zabuzamn/)]
