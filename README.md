@@ -2,7 +2,6 @@
 
 *A powerful anime-inspired photo editor built with React + TypeScript*
 
-![Sharingan](https://your-image-link.com/sharingan-preview.gif) <!-- Optional: Replace with your own image or GIF -->
 
 ---
 
@@ -38,17 +37,7 @@ npm install
 npm run dev
 npm run build
 ```
-### File structure
-```
-src/
-├── assets/              # Images, audio
-├── components/          # Reusable UI components
-├── features/            # Editor, Cartoonizer, ElasticTool, etc.
-├── pages/               # Landing, Editor, Settings, etc.
-├── styles/              # Global and module styles
-├── utils/               # Helper functions, error handling
-└── App.tsx              # Main app component
-```
+
 ## ⚙️ Tech Stack
 
 | **Layer**        | **Technology**                   |
